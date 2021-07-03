@@ -94,7 +94,7 @@ const (
 	_statusCallbackEvent           = "statusCallbackEvent"
 	_statusCallbackMethod          = "statusCallbackMethod"
 	_timeLimit                     = "timeLimit"
-	_timeout                       = "timeout"
+	_timeout                       = "Timeout"
 	_to                            = "to"
 	_tokenType                     = "tokenType"
 	_track                         = "track"
